@@ -38,6 +38,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #666;
+    border-radius: 5px;
 }
 
 main {
@@ -56,4 +57,14 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px 0;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+.container {
+    max-width: 1024px;
+    margin: auto;
 }
